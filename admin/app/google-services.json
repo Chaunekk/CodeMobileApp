@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "354564777296",
+    "firebase_url": "https://hotelbookingapp-cac10-default-rtdb.firebaseio.com",
+    "project_id": "hotelbookingapp-cac10",
+    "storage_bucket": "hotelbookingapp-cac10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354564777296:android:9f3b97f37a317a89557855",
+        "android_client_info": {
+          "package_name": "com.example.adminbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdYoPMnsOm_yCWbZtr-pjvqSKBohEMJi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354564777296:android:8b2f1c526356e118557855",
+        "android_client_info": {
+          "package_name": "com.example.hotelbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdYoPMnsOm_yCWbZtr-pjvqSKBohEMJi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
